@@ -1,14 +1,14 @@
-\# ⚡ Live Power System Line Loss Monitor
+# ⚡ Live Power System Line Loss Monitor
 
 
 
-\## 📋 Project Overview
+## 📋 Project Overview
 
 A real-time monitoring system for electrical transmission line losses in a 5-line power system.
 
 
 
-\## 🏗️ System Architecture
+## 🏗️ System Architecture
 
 Power House (410V)
 
@@ -30,7 +30,7 @@ text
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 power-system-project/
 
@@ -48,33 +48,33 @@ text
 
 
 
-\## 🚀 Quick Start
+## 🚀 Quick Start
 
 
 
-\### 1. Setup
+### 1. Setup
 
 ```bash
 
-\# Clone and navigate
+# Clone and navigate
 
 cd power-system-project
 
 
 
-\# Create virtual environment
+# Create virtual environment
 
 python -m venv venv
 
 
 
-\# Activate (Windows)
+# Activate (Windows)
 
 venv\\Scripts\\activate
 
 
 
-\# Install dependencies
+# Install dependencies
 
 pip install pandas streamlit plotly
 
@@ -94,7 +94,7 @@ streamlit run dashboard\\power\_dashboard.py
 
 bash
 
-\# In separate terminal
+# In separate terminal
 
 python scripts\\live\_simulator.py
 

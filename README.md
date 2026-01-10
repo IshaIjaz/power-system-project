@@ -196,9 +196,13 @@ Line Efficiency Range: 95-98%
 
 Ali Akram - Electrical Engineer
 
+Aleeba Boota - IT Support
+
+Isha Ijaz - IT Support
+
 Maham Habib - IT Support
 
-Aleeba Boota - IT Support
+
 
 
 

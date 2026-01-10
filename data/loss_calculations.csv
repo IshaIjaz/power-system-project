@@ -1,0 +1,6 @@
+line_id,area_name,current_amps,line_losses_kw,transformer_losses_kw,total_losses_kw,loss_percentage,voltage_drop_v,efficiency
+LINE_001,Area_A,52.49,19.18,25.5,44.68,5.26,197.53,94.74
+LINE_002,Area_B,76.81,69.66,48.0,117.66,9.81,475.02,90.19
+LINE_003,Area_C,38.77,8.37,19.5,27.87,4.29,113.42,95.71
+LINE_004,Area_D,98.41,73.75,30.0,103.75,6.92,513.98,93.08
+LINE_005,Area_E,57.98,41.38,47.5,88.88,9.36,333.73,90.64

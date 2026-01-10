@@ -1,0 +1,6 @@
+line_id,area_name,line_length_km,conductor_type,resistance_ohm_km,reactance_ohm_km,load_kw,power_factor,transformer_efficiency
+LINE_001,Area_A,8.5,ACSR,0.273,0.4,892.6,0.948,0.97
+LINE_002,Area_B,12.3,AAAC,0.32,0.42,1102.0,0.803,0.96
+LINE_003,Area_C,6.8,ACSR,0.273,0.4,530.1,0.928,0.97
+LINE_004,Area_D,15.2,Copper,0.167,0.35,1163.4,0.757,0.98
+LINE_005,Area_E,9.7,AAC,0.423,0.45,713.0,0.889,0.95

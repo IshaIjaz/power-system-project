@@ -297,16 +297,11 @@ Update documentation accordingly
 Grid Watcher Team - Nexora Hacks 2026
 
 Role	Name	Contribution
-Project Lead	[Your Name]	Architecture, Backend
-AI/ML Engineer	[Teammate]	Predictive Analytics
-Frontend Developer	[Teammate]	Dashboard Design
-Data Scientist	[Teammate]	Physics Engine
-Contact
-Email: your.email@example.com
+Project Lead	[Isha Ijaz]	Architecture, Backend
+AI/ML Engineer	[Maham Habib]	Predictive Analytics
+Frontend Developer	[Aleeba Boota]	Dashboard Design
+Data Scientist	[Ali Akram]	Physics Engine
 
-GitHub Issues: Report Here
-
-Discussions: Join Here
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -381,15 +376,3 @@ matplotlib>=3.7.0
 scikit-learn>=1.3.0
 python-dotenv>=1.0.0
 pytest>=7.4.0
-🚀 How to Use This README:
-Copy the entire markdown above
-
-Paste into your GitHub repository as README.md
-
-Replace placeholders (yourusername, your.email, etc.)
-
-Add your actual demo video links
-
-Upload to GitHub
-
-Enjoy your professional project presentation!

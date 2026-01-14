@@ -246,7 +246,7 @@ Development Setup
 bash
 # 1. Fork the repository
 # 2. Clone your fork
-git clone https://github.com/yourusername/grid-watcher.git
+git clone https://github.com/IshaIjaz/grid-watcher.git
 
 # 3. Create feature branch
 git checkout -b feature/your-feature
@@ -341,7 +341,7 @@ If you find this project useful, please give it a star on GitHub!
 
 bash
 # Spread the word about Grid Watcher
-git clone https://github.com/yourusername/grid-watcher.git
+git clone https://github.com/IshaIjaz/grid-watcher.git
 # Try it, share it, improve it!
 Grid Watcher: See every watt. Save every dollar. ⚡
 

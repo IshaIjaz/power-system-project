@@ -226,22 +226,26 @@ ROI Calculations: ±5% margin of error
 Project Structure
 text
 grid-watcher/
-├── data/                 # Sample data files
-│   ├── power_system.csv
-│   └── loss_calculations.csv
-├── dashboard/           # Streamlit application
-│   ├── app.py
-│   └── components.py
-├── scripts/            # Core logic
-│   ├── calculate_losses.py
-│   ├── live_simulator.py
-│   └── physics_engine.py
-├── tests/              # Unit tests
-├── docs/               # Documentation
-├── requirements.txt    # Dependencies
-├── launch.bat         # Windows launcher
-├── launch.sh          # Linux/Mac launcher
-└── README.md          # This file
+├── .gitignore                 
+├── requirements.txt          
+├── README.md                  
+├── run_project.py            
+├── launch_with_browser.bat    
+├── start_all.bat              
+├── open_browser.py            
+│
+├── dashboard/
+│   └── power_dashboard.py     
+│
+├── scripts/
+│   ├── calculate_losses.py    
+│   ├── live_simulator.py      
+│   ├── simple_analytics.py    
+│   └── simulate_live_data.py  
+│
+├── data/
+│   ├── power_system.csv       
+    └── loss_calculations.csv  
 Development Setup
 bash
 # 1. Fork the repository

@@ -331,23 +331,7 @@ Open Source Community for incredible tools
 
 Electrical Engineering Researchers whose work inspired us
 
-🌐 Links
-Live Demo: Try Grid Watcher
-
-Video Demo: Watch on YouTube
-
-DevPost Submission: View Submission
-
-Presentation Slides: View Slides
-
 ⭐ Support This Project
-If you find this project useful, please give it a star on GitHub!
-
-bash
-# Spread the word about Grid Watcher
-git clone https://github.com/IshaIjaz/grid-watcher.git
-# Try it, share it, improve it!
-Grid Watcher: See every watt. Save every dollar. ⚡
 
 Built with ❤️ for a more efficient and sustainable energy future.
 

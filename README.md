@@ -335,29 +335,7 @@ Electrical Engineering Researchers whose work inspired us
 
 Built with ❤️ for a more efficient and sustainable energy future.
 
-text
 
-## 📁 **Additional Files to Create:**
-
-### **1. `CONTRIBUTING.md`**
-```markdown
-# Contributing to Grid Watcher
-Guidelines for contributing to our project...
-2. launch.bat (Windows Launcher)
-batch
-@echo off
-echo Starting Grid Watcher...
-python launch.py
-pause
-3. launch.sh (Linux/Mac Launcher)
-bash
-#!/bin/bash
-echo "🚀 Launching Grid Watcher..."
-python3 launch.py
-4. requirements.txt
-text
-streamlit>=1.28.0
-pandas>=2.0.0
 plotly>=5.18.0
 numpy>=1.24.0
 matplotlib>=3.7.0
